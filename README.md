@@ -39,7 +39,7 @@ Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
-<b>[Get the full Facebook company reviews dataset](https://brightdata.com/products/datasets/facebook)</b>.
+<b>[Get the full Facebook dataset](https://brightdata.com/products/datasets/facebook)</b>.
 
 <h2>Additional Facebook datasets available:</h2>
 
