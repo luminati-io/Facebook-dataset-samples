@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Facebook posts by profile</h2>
 
-![Facebook dataset header](https://github.com/luminati-io/Facebook-dataset-samples/blob/main/facebook-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/facebook">
+   <img src="https://github.com/luminati-io/facebook-dataset-samples/blob/main/facebook-datasets.png" alt="facebook datasets" />
+</a>
 
 A Facebook dataset sample of over 1000 posts by profile (public data). Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -48,7 +50,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 * Facebook - Reels by profile URL
 * Facebook - Comments
 
-![Facebook dataset visual](https://github.com/luminati-io/Facebook-dataset-samples/blob/main/facebook-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/facebook">
+   <img src="https://github.com/luminati-io/facebook-dataset-samples/blob/main/dataset-promotions.png" alt="facebook datasets" />
+</a>
 
 <h2>What are the Facebook datasets use cases?</h2>
 
